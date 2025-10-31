@@ -1,5 +1,5 @@
 import React from 'react'
-import hub from '../assets/img/hub.png'
+import hub from '../assets/img/Hub.png'
 const Hub = () => {
   return (
     <div>
